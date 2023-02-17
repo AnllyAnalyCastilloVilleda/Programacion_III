@@ -1,11 +1,11 @@
 package colas;
-public class Colas 
+public class colas 
 {
 //Declaración de atributos
 private Nodo inicio;
 private Nodo termino;
 //Constructor sin parametros
-public Colas()
+public colas()
 {
 inicio=null;
 termino=null;
