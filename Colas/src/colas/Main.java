@@ -2,7 +2,7 @@ package colas;
 public class Main {
 public static void main(String[] args) {
 //Declaramos y creamos un objeto cola de mi clase Pilas 
-Colas cola=new Colas();
+colas cola=new colas();
 //Le asignamos los valores que vamos a encolar y el orden 
 cola.insertar(46);
 cola.insertar(12);
